@@ -15,7 +15,7 @@ This project is a blueprint for an AI-powered travel planning startup that helps
 ## Project Components
 - `Business Proposal for website as Slides` – Contains the landing page and additional pages outlining features and the startup vision.
 - `Additional pages (non-landing)` – Additional information such as an 'about' page and the structure of the AI-powered traveler type quiz.
-- `Destionation search animation` – An animation explaining the vision board search feature from the user's perspective.
+- `Destination search animation` – An animation explaining the vision board search feature from the user's perspective.
 
 ## How It Works
 1. Take the travel quiz to determine your traveler profile.
