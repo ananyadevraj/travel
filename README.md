@@ -1,7 +1,7 @@
 # AI Travel Planner: Business Proposal
 
 ## Overview
-This project is a blueprint for an AI-powered travel planning startup that helps users create customized itineraries tailored to their preferences. The platform enables travelers to curate vision boards of their dream destinations, receive AI-generated recommendations, and personalize their trips with their own images and notes.
+This project is a blueprint for an AI-powered travel planning startup that helps users create customized itineraries tailored to their preferences. The platform enables travelers to curate vision boards of their dream destinations in Asia, receive AI-generated recommendations & itineraties, and personalize their trips with their own images and notes.
 
 ## Features
 - AI-Powered Itinerary Customization – Get personalized travel plans based on preferences.
